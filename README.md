@@ -1,4 +1,7 @@
-# CRTO-Exam-Guide
+# CRTO Exam Guide
+
+![CRTO Exam Guide!](https://raw.githubusercontent.com/rfs85/Index/main/images/CRTO%20Notes.png "CRTO Exam Guide")
+
 ZeroPointSecurity Certified Red Team Operator (CRTO) Guide
 
 
